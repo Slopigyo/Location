@@ -1,0 +1,11 @@
+<resources>
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="WLblack">#313131</color>
+    <color name="WLgray">#6e6e6e</color>
+    <color name="WLblue">#26a5cc</color>
+    <color name="WLpink">#66000000</color>
+
+
+</resources>
